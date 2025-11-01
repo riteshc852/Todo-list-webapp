@@ -1,0 +1,1 @@
+console.log("Javascrit is not much needed for this project");
