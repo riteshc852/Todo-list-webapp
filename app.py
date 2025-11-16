@@ -53,4 +53,4 @@ if __name__ == "__main__":
     # Create database tables inside application context
     with app.app_context(): # this is to create the database file 
         db.create_all()
-    app.run(debug=True)
+    app.run(debug=False)
